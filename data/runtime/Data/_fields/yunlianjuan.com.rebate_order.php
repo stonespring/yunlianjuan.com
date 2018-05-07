@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'uid', 2 => 'order_time', 3 => 'rebate_order', 4 => 'rebate_state', 5 => 'rebate_abnormal', '_autoinc' => true, '_pk' => 'id', '_type' => array ( 'id' => 'int(10)', 'uid' => 'int(10)', 'order_time' => 'timestamp', 'rebate_order' => 'varchar(20)', 'rebate_state' => 'int(10)', 'rebate_abnormal' => 'int(10)', ), );?>
